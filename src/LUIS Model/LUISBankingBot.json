@@ -2,6 +2,7 @@
   "luis_schema_version": "1.3.0",
   "name": "LUISBankingBot",
   "desc": "LUIS Banking Bot",
+  "versionId": "0.1",
   "culture": "en-us",
   "intents": [
     {
@@ -37,6 +38,7 @@
       ]
     }
   ],
+  "closedLists": [],
   "bing_entities": [
     "money",
     "number"
